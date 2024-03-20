@@ -1,4 +1,5 @@
-# FlappyBird-BY-ARYAN
+# FlappyBird using python
+
 To run the game, make sure you have Python and Pygame installed on your system. You can install Pygame using pip:
 #code
 ------pip install pygame-------------
