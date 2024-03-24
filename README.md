@@ -25,3 +25,6 @@ Controls
 Press the Spacebar or Up Arrow key to make the bird flap and ascend.
 Avoid touching the pipes or the ground to continue playing.
 
+![Screenshot (2)](https://github.com/aa0962/FlappyBird-using-Python/assets/103809188/62ac00ce-7348-4c5b-b55a-3f29c0b2c18e)
+
+![Screenshot (3)](https://github.com/aa0962/FlappyBird-using-Python/assets/103809188/ab078b82-c600-45ba-ab78-3de3fe7e7623)
